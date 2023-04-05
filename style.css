@@ -1,0 +1,29 @@
+*{margin: 0;
+padding: 0;}
+
+body{height: 100vh;
+    width: 100vw;
+    background-color: black;
+}
+
+.title{
+    font-size: 25vh;
+    color: red;
+    text-align: center;
+    font-weight: bolder;
+}
+
+#players{
+    display: flex;
+    font-size: 10vh;
+    color: red;
+    justify-content:space-around;
+    margin-top: 100px;
+    font-weight: lighter;
+}
+
+#img{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
